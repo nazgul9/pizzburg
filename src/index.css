@@ -1,13 +1,49 @@
+/* body{
+  background-image: url('https://images.unsplash.com/photo-1558555218-6cec9682abfb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZvb2QlMjBzYWZldHl8ZW58MHx8MHx8&w=1000&q=80');
+} */
 .borderPhoto{
   width: 100%;
-  height: 2px;
   border-style: solid;
   border-color: orange;
-  margin: 20px;
+  padding: 1px;
 }
 .images{
 width: 100%;
+border-radius: 50%;
 }
-.a1{
-  margin-top: 50%;
+
+.pricePizza{
+  color: orange;
+}
+.titlePizza{
+  color: #000;
+}
+.texth1{
+  text-align: center;
+  color: black;
+  text-decoration-line: none;
+  border-radius: 50px
+}
+.footer{
+  margin: 0;
+  padding: 0;
+}
+.footers{
+  color: white;
+  background-color: #000;
+}
+.span1{
+  color: orange;
+  
+}
+.span2{
+  color: #000;
+  
+}
+span{
+  font-family: "Gill Sans", sans-serif;
+
+}
+.fonts{
+  font-size: 12mm;
 }
